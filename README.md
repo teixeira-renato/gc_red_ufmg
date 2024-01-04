@@ -5,4 +5,6 @@ O repositório foi criado para compartilhar as informações metodológicas e t�
 
 O trabalho continua em desenvolvimento e ao surgir novas versões o repositório será atualizado pelo grupo.
 
+Um pacote está em desenvolvimento e em breve novas atualizações poderão facilitar o uso do algoritmo para usuários finais.
+
 Sua ajuda é bem vinda para sugestões e identificações a serem implementadas.
